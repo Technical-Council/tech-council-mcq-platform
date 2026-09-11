@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "QUIZ-Platform",
+    "slug": "quiz-platform",
+
+    "android": {
+      "package": "com.technicalcouncil.quizplatform"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "eb7e8fe4-bc77-4b84-bf09-3bda7c832c06"
+      }
+    }
+  }
+}
