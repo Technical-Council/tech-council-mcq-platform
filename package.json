@@ -15,10 +15,16 @@
     "postcss": "^8.5.28",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
+    "react-native-reanimated": "4.5.1",
     "react-native-safe-area-context": "~5.7.0",
     "react-native-screens": "~4.26.0",
     "react-native-url-polyfill": "^4.0.0",
     "react-native-web": "^0.21.2",
-    "tailwindcss": "^3.3.2"
-  }
+    "react-native-worklets": "^0.10.4",
+    "tailwindcss": "^3.3.2",
+    "react-native": "0.86.3"
+  },
+  "name": "tech-council-mcq-platform",
+  "version": "1.0.0",
+  "scripts": {}
 }
